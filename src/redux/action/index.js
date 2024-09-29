@@ -1,0 +1,2 @@
+export const POPUP_OPEN_CLOSE = "POPUP_OPEN_CLOSE"
+export const DATA_INFO = "DATA_INFO"
